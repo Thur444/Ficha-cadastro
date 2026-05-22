@@ -33,3 +33,24 @@ body{
 .cadastro-topo p {
     padding-right: 250px;
 }
+.documentos-necessarios {
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    background-color: #ffdead;
+    padding: 25px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.imagem-documentos {
+    flex: 1;
+}
+
+.dados-left {
+    flex: 2px;
+}
+
+.dados-right {
+    flex: 2px;
+}
