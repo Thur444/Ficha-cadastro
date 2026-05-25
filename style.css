@@ -7,7 +7,7 @@ body{
 .topo{
     display: flex;
     width: 1000px;
-    background-color: #0000ff;
+    background-color: #00008B;
     border-radius: 10px;
     margin: auto;
     margin-top: 40px;
@@ -37,21 +37,21 @@ body{
     display: flex;
     width: 1000px;
     margin: auto;
-    background-color: #ffdead;
+    background-color: #6495ED;
     padding: 25px;
     margin-top: 30px;
     border-radius: 10px;
 }
 
 .imagem-documentos {
-    flex: 1;
+    flex: 0;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .imagem-documentos img{
-    width: 120px;
+    width: 85px;
 } 
 
 
@@ -61,4 +61,28 @@ body{
 
 .dados-right {
     flex: 2px;
+}
+
+.dados-pessoais {
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    padding: 25px;
+    background-color: #A9A9A9;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.informacao-funcionario {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+}
+
+.informacao-funcionario p {
+    background-color: #ccc;
+    line-height: 3;
+    padding-left: 2px 8px 2px 8px;
+    font-size: 12px;
+    border-radius: 4px;
 }
