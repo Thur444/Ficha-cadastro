@@ -83,7 +83,7 @@ body{
 }
 
 .dados-pessoais h2{
-    color: #002A66;
+    color: #0000FF;
 }
 
 .informacao-funcionario {
@@ -114,7 +114,7 @@ body{
 }
 
 .documentos h2{
-    color: #002A66;
+    color: #0000FF;
 }
 
 .dados-iden {
@@ -145,7 +145,7 @@ body{
 }
 
 .estado h2{
-    color: #002A66;
+    color: #0000FF;
 }
 
 .info {
@@ -176,7 +176,7 @@ body{
 }
 
 .admi h2{
-    color: #002A66;
+    color: #0000FF;
 }
 
 .empr {
@@ -207,7 +207,7 @@ body{
 }
 
 .resp h2{
-    color: #002A66;
+    color: #0000FF;
 }
 
 .conf {
@@ -345,7 +345,7 @@ select{
 }
 
 .titulo-horario{
-    color: #002A66;
+    color: #0000FF;
     font-size: 18px;
     margin-bottom: 15px;
 }
